@@ -1,5 +1,5 @@
 ﻿Speaker	Generation	Transcript	Time start	Time finish	IU
-Tim	1	Tim.Jess.Chloe.0705	00:00.0	00:04.3	[PERSON NAME] ơi hôm bữa con đi concert,
+Tim	1	Tim.Jess.Chloe.0705	00:00.0	00:04.3	[A:person name] ơi hôm bữa con đi concert,
 Tim	1	Tim.Jess.Chloe.0705	00:04.3	00:05.7	con có thích không?
 Jess	2	Tim.Jess.Chloe.0705	00:05.7	00:07.4	mhm thích.
 Tim	1	Tim.Jess.Chloe.0705	00:07.4	00:13.9	con kể cho ba nghe vài cái về cái concert đi.
